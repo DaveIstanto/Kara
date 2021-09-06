@@ -1,0 +1,12 @@
+{
+  "name": "kara",
+  "verison": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Nomikai Squad",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
