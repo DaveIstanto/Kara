@@ -1,7 +1,8 @@
+// Copied from https://sourceb.in/uDkVc4sIsq
 const ytdl = require('ytdl-core')
 const ytSearch = require('yt-search')
 
-//Global queue for your bot. Every server will have a key and value pair in this map. { guild.id, queue_constructor{} }
+//Global queue fosr your bot. Every server will have a key and value pair in this map. { guild.id, queue_constructor{} }
 const queue = new Map()
 
 module.exports = {
