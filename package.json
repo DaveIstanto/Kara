@@ -6,10 +6,14 @@
   "author": "Nomikai Squad",
   "dependencies": {
     "@discordjs/builders": "^0.5.0",
+    "@discordjs/opus": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.6.0",
     "discord-api-types": "^0.22.0",
     "discord.js": "^13.1.0",
     "install": "^0.13.0",
+    "libsodium": "^0.7.9",
+    "libsodium-wrappers": "^0.7.9",
     "npm": "^7.22.0",
     "yt-search": "^2.10.1",
     "ytdl-core": "^4.9.1"
